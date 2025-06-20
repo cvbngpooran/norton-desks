@@ -8,11 +8,12 @@ How to Contact Norton Customer Service via Phone or Live Chat
 
 For Contact Norton Customer Service Click on Support Button
 -----------------------------------------------------------
-.. image:: aclogportal.jpg
+.. image:: accuratelivechat.jpg
    :alt: My Project Logo
    :width: 500px
    :align: center
    :target: https://accuratelivechat.com
+
 In the digital age, cybersecurity is no longer optional—it’s a necessity. Norton, a globally recognized name in online security, offers comprehensive protection against viruses, malware, ransomware, phishing attacks, and other digital threats. While Norton products are designed to provide smooth, uninterrupted protection, users occasionally need assistance. Whether it’s installing software, renewing a subscription, resolving billing concerns, or handling a technical glitch, timely support becomes essential. Understanding how to contact Norton customer service via phone or live chat ensures that users get reliable help exactly when they need it.
 
 This article provides an in-depth look at contacting Norton’s customer support through the two most effective methods—phone and live chat. These channels offer users direct access to trained professionals who can resolve issues in real time. The following guide explores every aspect of Norton’s support experience, from preparation to resolution, to help you get the assistance you need with minimal hassle.
